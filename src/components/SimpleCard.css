@@ -1,0 +1,33 @@
+.card-container {
+  background-color: white;
+  border-radius: 15px;
+  padding-top: 10px;
+  padding-bottom: 35px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-family: "Poppins", sans-serif;
+  width: 70%;
+}
+
+.card-container button {
+  background-color: darkmagenta;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 10px;
+  border: 0;
+}
+
+.card-container p {
+  color: grey;
+  font-size: 15px;
+}
+
+.card-container h2 {
+  color: rgb(43, 1, 43);
+  font-size: 20px;
+  margin-bottom: 0;
+}
