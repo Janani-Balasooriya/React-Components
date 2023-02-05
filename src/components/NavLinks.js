@@ -1,9 +1,9 @@
 function NavLinks() {
   return (
-    <div>
-      <h4>Home</h4>
-      <h4>About Us</h4>
-      <h4>Contact</h4>
+    <div className="nav-links">
+      <p>Home</p>
+      <p>About Us</p>
+      <p>Contact</p>
     </div>
   );
 }

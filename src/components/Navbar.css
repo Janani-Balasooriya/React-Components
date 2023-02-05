@@ -1,4 +1,37 @@
 .navbar {
   background-color: white;
   margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.logo {
+  color: rgb(43, 1, 43);
+}
+.nav-links {
+  display: flex;
+  gap: 20px;
+  color: rgb(43, 1, 43);
+}
+
+.logo-navlinks {
+  display: flex;
+  gap: 30px;
+  align-items: center;
+}
+
+.nav-button {
+  background-color: white;
+  color: rgb(43, 1, 43);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 10px;
+  border: 2px solid rgb(43, 1, 43);
 }

@@ -4,10 +4,10 @@ import SimpleCard from "./components/SimpleCard";
 
 function App() {
   return (
-    <div>
+    <>
       <SimpleCard />
       <Navbar />
-    </div>
+    </>
   );
 }
 

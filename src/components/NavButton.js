@@ -1,7 +1,7 @@
 import Navbar from "./Navbar";
 
 function NavButton() {
-  return <button>View More</button>;
+  return <button className="nav-button">View More</button>;
 }
 
 export default NavButton;

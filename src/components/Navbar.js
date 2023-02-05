@@ -6,8 +6,10 @@ import NavLinks from "./NavLinks";
 function Navbar() {
   return (
     <div className="navbar">
-      <Logo />
-      <NavLinks />
+      <div className="logo-navlinks">
+        <Logo />
+        <NavLinks />
+      </div>
       <NavButton />
     </div>
   );
